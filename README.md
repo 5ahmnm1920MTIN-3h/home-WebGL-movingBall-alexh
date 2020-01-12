@@ -1,13 +1,22 @@
-# Template Repository for Unity2D version 2019.1.14f1
+# home-WebGL-movingBall-alexh
 
 ### Project description: 
-Introduction/Project summary 
+This simple project consists of a screen-independent canvas (960x600), a button (Move Ball), a text (title with developer name), a script (moving the ball with the button), and a GameObjects ball (sprite2d imported)
+
+When pressing the button "Move Ball" the ball moves randomly to a new position. 4 Positions are available (4 empty GameObjects: PosBottomLeft, PosBottomRight, PosTopLeft, PosTopRight). There are 2 different variations for moving the ball to the positions randomly.
+
+Variation 1: direct repetition of the randomly chosen position is possible.
+Variation 2: the randomly chosen position is forced to be different, i.e. new position != old position
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
+* OS: Windows 10 Version 1909
+* Engine: Unity 2019.1.14f1
+* IDE: Visual Studio Community 2019 Version 16.4.0
+* Scripting Runtime Version: .NET 4.x Equivalent
+* API Compatibility Level: .NET Standard 2.0
 
 ### Target platform: 
-WebGL, Mobile, VR Device incl. reference resolution 
+WebGL, reference resolution 960x600
 
 ### Visuals: 
 Screenshots (concept and experience), Video
@@ -25,4 +34,4 @@ incl. progress in percent
 
 ### Lessons Learned: 
 
-Copyright by you :)
+Copyright by Alexander Hoedlmoser
