@@ -1,6 +1,9 @@
 # home-WebGL-movingBall-alexh
 
-### Project description: 
+### Build: 
+
+
+
 This simple project consists of a screen-independent canvas (960x600), a button (Move Ball), a text (title with developer name), a script (moving the ball with the button), and a GameObjects ball (sprite2d imported)
 
 When pressing the button "Move Ball" the ball moves randomly to a new position. 4 Positions are available (4 empty GameObjects: PosBottomLeft, PosBottomRight, PosTopLeft, PosTopRight). There are 2 different variations for moving the ball to the positions randomly.
@@ -19,19 +22,26 @@ Variation 2: the randomly chosen position is forced to be different, i.e. new po
 WebGL, reference resolution 960x600
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+<div>
+<img src = "Screenshots/sketch-moving-ball.jpg" width = "500">
+</div>
+© by [smeerws](https://github.com/smeerws)
 
 ### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+* WebGL has to be installed
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+* None
 
 ### Project state: 
-incl. progress in percent
+100%
 
 ### Limitations: 
+* None
 
-### Lessons Learned: 
+### Lessons Learned:
+* Build for the WebGL platform
+* Publish a WebGL project on GitHub Pages via folder docs
+* Use exit-controlled do, while loop
 
 Copyright by Alexander Hoedlmoser
