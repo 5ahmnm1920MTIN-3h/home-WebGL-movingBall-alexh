@@ -24,7 +24,8 @@ WebGL, reference resolution 960x600
 <div>
 <img src = "Screenshots/sketch-moving-ball.jpg" width = "500">
 </div>
-© by [smeerws](https://github.com/smeerws)
+
+© by [smeerws](https://github.com/smeerws/)
 
 ### Necessary setup/execution steps: 
 * WebGL has to be installed
@@ -43,4 +44,4 @@ WebGL, reference resolution 960x600
 * Publish a WebGL project on GitHub Pages via folder docs
 * Use exit-controlled do, while loop
 
-Copyright by Alexander Hoedlmoser
+© by Alexander Hoedlmoser
