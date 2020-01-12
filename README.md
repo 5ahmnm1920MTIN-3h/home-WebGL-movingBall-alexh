@@ -34,7 +34,7 @@ WebGL, reference resolution 960x600
 * None
 
 ### Project state: 
-100%
+100% completed
 
 ### Limitations: 
 * None
